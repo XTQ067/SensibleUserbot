@@ -19,12 +19,9 @@ Telegram hesabınızı idarə etmək üçün ən yaxşı istifadəçi botu
 
 ##Deploy etmək 
 
-### The Easy Way
+### Asand yol
 [![Dark deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/spandey112/SensibleUserbot/)
 
-Take Sting session from Replit
-[![Repliy üçün](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://stringsession.sensibleuserbot.repl.run/)
--------------------------------------------------
 
 🔺 UserBot-u Heroku-ya necə yerləşdirmək olar 🔺
 
