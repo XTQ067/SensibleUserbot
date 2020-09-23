@@ -1,7 +1,7 @@
 # Dark Userbot
 
 <p align="center">
-<img src="SENSIBLE.jpg" alt="Dark Userbot">
+<img src="Dark.jpg" alt="Dark Userbot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
