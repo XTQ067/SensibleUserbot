@@ -1,7 +1,7 @@
 # Dark Userbot
 
 <p align="center">
-<img src="Dark.jpg" alt="Dark Userbot">
+<img src="Dark.jpg" alt="Xaos Userbot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -11,16 +11,16 @@
 Telegram hesabınızı idarə etmək üçün ən yaxşı istifadəçi botu
 ## Ən güclü və daha yaxşı və təhlükəsizdir
 
-## Dark Web Azerbaijan ™ tərəfindən
+## Xaos Azerbaijan ™ tərəfindən
 
 ### Hər hansı bir sorğu və ya necə işlədiyini bilmək istəsəniz Qrup Və Kanala qoşulun
 
-<a href="https://t.me/joinchat/RXQYGVGgmuHhw_tSlzQ0yw"><img src="https://img.shields.io/badge/telegrama-qoşul%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/joinchat/BotssSupport"><img src="https://img.shields.io/badge/telegrama-qoşul%20Channel-red.svg?logo=Telegram"></a>
 
 ##Deploy etmək 
 
 ### Asand yol
-[![Dark deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/spandey112/SensibleUserbot/)
+[![Xaos deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTQ067/SensibleUserbot/)
 
 
 🔺 UserBot-u Heroku-ya necə yerləşdirmək olar 🔺
